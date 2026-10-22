@@ -98,6 +98,7 @@ The weight licenses allow only non-commercial use (e.g. academic research and be
     Marx, Alexander
   },
   title = {Residual-Based Causal Discovery via Pretrained In-Context Quantile Regression},
+  journal={arXiv preprint arXiv:2610.29530},
   year = {2026}
 }
 ```
